@@ -1,6 +1,6 @@
 # Estudo Comparativo de Autoencoders (Dissertação de Mestrado)
 
-Este repositório contém as principais estruturas de código (classes e funções) das arquiteturas dos modelos de *Autoencoders* utilizados na dissertação de mestrado intitulada **"Estudo Comparativo de Autoencoders"**, apresentada ao Instituto de Computação da UNICAMP.
+Este repositório contém as principais estruturas de código (classes e funções) das arquiteturas dos modelos de *Autoencoders* utilizados na dissertação de mestrado intitulada **"Estudo Comparativo de Autoencoders: Reconstrução, Geração e Robustez do Espaço Latente"**, apresentada ao Instituto de Computação da UNICAMP.
 
 **Autor:** Wilson Bagni Júnior  
 **Orientador:** Prof. Dr. Zanoni Dias  

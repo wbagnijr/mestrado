@@ -1,4 +1,4 @@
-# Estudo Comparativo de Autoencoders (Dissertação de Mestrado)
+# Estudo Comparativo de Autoencoders: Reconstrução, Geração e Robustez do Espaço Latente (Dissertação de Mestrado)
 
 Este repositório contém as principais estruturas de código (classes e funções) das arquiteturas dos modelos de *Autoencoders* utilizados na dissertação de mestrado intitulada **"Estudo Comparativo de Autoencoders: Reconstrução, Geração e Robustez do Espaço Latente"**, apresentada ao Instituto de Computação da UNICAMP.
 

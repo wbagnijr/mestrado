@@ -40,6 +40,7 @@ Se você utilizar os códigos, modelos ou dados deste repositório em sua pesqui
 > BAGNI JÚNIOR, Wilson. *Estudo Comparativo de Autoencoders em Imagens: Reconstrução, Geração e Robustez do Espaço Latente*. 2026. Dissertação (Mestrado em Ciência da Computação) - Instituto de Computação, Universidade Estadual de Campinas (UNICAMP), Campinas, 2026. Disponível em: https://repositorio.unicamp.br/.
 
 **Formato BibTeX:**
+```
 @mastersthesis{bagni_autoencoders_2026,
   author       = {Bagni J\'unior, Wilson},
   title        = {Estudo Comparativo de Autoencoders em Imagens: Reconstru\c{c}\~ao, Gera\c{c}\~ao e Robustez do Espa\c{c}o Latente},
@@ -49,13 +50,14 @@ Se você utilizar os códigos, modelos ou dados deste repositório em sua pesqui
   type         = {Disserta\c{c}\~ao de Mestrado},
   url          = {[https://repositorio.unicamp.br/](https://repositorio.unicamp.br/)}
 }
-
+```
 ###  2. Citação do Conjunto de Dados (REDU)
 
 **Formato ABNT:**
 > BAGNI JÚNIOR, Wilson. Dados de pesquisa para: Estudo Comparativo de Autoencoders em Imagens: Reconstrução, Geração e Robustez do Espaço Latente. Repositório de Dados de Pesquisa da Unicamp (REDU), 2026. DOI: 10.25824/redu/BGNAIH. Disponível em: https://redu.unicamp.br/dataset.xhtml?persistentId=doi:10.25824/redu/BGNAIH.
 
 **Formato BibTeX:**
+```
 @misc{bagni_dataset_2026,
   author       = {Bagni J\'unior, Wilson},
   title        = {Dados de pesquisa para: Estudo Comparativo de Autoencoders em Imagens: Reconstru\c{c}\~ao, Gera\c{c}\~ao e Robustez do Espa\c{c}o Latente},
@@ -64,7 +66,7 @@ Se você utilizar os códigos, modelos ou dados deste repositório em sua pesqui
   doi          = {10.25824/redu/BGNAIH},
   url          = {[https://doi.org/10.25824/redu/BGNAIH](https://doi.org/10.25824/redu/BGNAIH)}
 }
-
+```
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 Você é livre para utilizar, modificar e distribuir o código deste repositório, inclusive para fins comerciais, desde que a devida atribuição seja dada ao autor original e a nota de direitos autorais seja mantida.
